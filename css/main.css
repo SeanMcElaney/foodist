@@ -1,0 +1,93 @@
+
+body {
+  font-family: 'lato', sans-serif;
+}
+h1 a{
+  text-decoration: none;
+  font-family: 'lato', sans-serif;
+  color: #DF0D17;
+  font-size: 300%;
+
+}
+#food {
+ font-family: 'lato', sans-serif;
+ color: black;
+
+}
+
+.foodist {
+
+}
+
+#para {
+  font-size: 90%;
+}
+
+h2 a{
+  text-decoration: none;
+  font-size: 200%;
+  color: black;
+  font-family: 'lato', sans-serif;
+}
+
+h3 {
+  color: #E5E7E9;
+  font-size: 200%;
+  font-family: 'lato', sans-serif;
+}
+
+
+nav {
+  font-family: 'lato', sans-serif;
+  color: #D4D3D3;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+text-decoration: underline;
+margin-top: : : : 40px;
+  width: 500px;
+    border: 25px
+    padding: 25px;
+    margin: 25px;
+    font-size: 125%;
+
+
+}
+
+
+article p::first-letter {
+font-weight: bold;
+font-weight: 300;
+font-size: 800%;
+color: #E5E7E9;
+padding-top: : 400px;
+}
+
+a {
+  color: #E5E7E9;
+}
+
+#ny {
+  height: 25%;
+  width: 100%;
+  size: 70%;
+  image-resolution: 25%;
+
+}
+
+#paris {
+  height: 85%;
+  width: 85%;
+  image-resolution: 25%;
+}
+
+p {
+   font-size: 125%;
+   font-family: 'lato', sans-serif;
+}
+
+#food {
+  font-size: 150%;
+  font-family: 'lato', sans-serif;
+}
